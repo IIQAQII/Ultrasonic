@@ -1,1 +1,7 @@
+{
 
+	"Ultrasonic|block": "超声波",
+	"{id:category}Ultrasonic": "超声波",
+    "Ultrasonic.ULTRASONIC|block": "超声波|发射引脚 %Trig|接收引脚 %Echo"
+
+}
