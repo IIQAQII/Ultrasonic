@@ -1,0 +1,22 @@
+{
+    "name": "Ultrasonic",
+    "version": "0.0.1",
+    "description": "Extension for YOMYCREAT Ultrasonic V0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/Ultrasonic-strings.json",
+        "_locales/zh-tw/Ultrasonic-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj"
+}
